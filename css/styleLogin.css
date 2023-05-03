@@ -1,0 +1,145 @@
+
+body{
+    background-color: #BFBDD6;
+}
+header{
+    height:50px ;
+    background-color: #444b30;
+    border:2px solid #BFBDD6;
+    color:#BFBDD6;flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+main{
+    width: 100%;
+    height:700px;
+    min-height: 360px;
+    background-color: #333824;
+    border:3px solid #BFBDD6;
+    margin: 5px auto;
+    color: #BFBDD6;
+}
+footer{
+    background-color: #40462d;
+    border:3px solid #BFBDD6;
+    height: 50px;
+    color: #BFBDD6;
+}
+section.XD{
+    margin: 5px;
+    height: 370px;
+    flex-wrap: wrap;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    border:3px solid #BFBDD6;
+}
+div.bag{
+    display:flex;
+    flex-direction: column;
+    margin: 20px;
+    color:#BFBDD6;
+}
+div.baz{
+    display:flex;
+    flex-direction: column;
+    margin: 20px;
+    color:#BFBDD6;
+}
+section.morre{
+    flex-wrap: wrap;
+    display:flex;
+    flex-direction: row;
+}
+main.cad{
+    background-color: #BFBDD6;
+   
+    height: 615px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}
+section.aula{
+    margin: 5px;
+    width: 500px;
+    height: 600px;
+    border-radius: 5px;
+    background-color:  #565d40;
+    border-radius: 5px;
+}
+section.acesso{
+    margin: 5px;
+    width: 500px;
+    height: 600px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   
+}
+div.pera{
+    height: 100px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+div.topoacs{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+ 
+}
+div.acesso2{
+    background-color: #40462d;
+    border-radius: 5px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+  
+}
+div.acesso3{
+    background-color: #40462d;
+    border-radius: 5px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+section.erro{
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+div.pera input{
+  width: 90%;
+  height: 35px;
+  border-radius: 5px;
+  
+}
+.pera button{
+    width: 50%;
+    height: 40px;
+    border: 3px solid #c3cea4;
+    border-radius: 5px;
+    background-color: #333824;
+}
+.pera button a{
+    color: #b1de1c;
+}
+.pera fieldset{
+    width: 90%;
+    height: 150px;
+}
